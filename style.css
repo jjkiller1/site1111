@@ -1,0 +1,87 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+  a {
+    border: 2px solid gray;
+    margin: 30px;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+header {
+    background-color: green;
+}
+h2 {
+    text-align: center;
+    color: grey;
+    font-size: 30px;
+    
+}
+.firstp {
+    font-size: 20px;
+    color: rgb(111, 253, 253);
+    background-color: darkmagenta;
+    
+}
+
+.vtorayap {
+    font-size: 20px;
+    color: darkcyan;
+    background-color: darkolivegreen;
+}
+
+.thirdp {
+    font-size: 20px;
+    background-color: darkorange;
+    color: darkslategray;
+}
+
+.fourp {
+    font-size: 20px;
+    color: lawngreen;
+    background-color: mediumvioletred;
+}
+
+h3 {
+   color: mediumvioletred;
+   background-color: navy;
+   font-size: 30px ;
+   text-align: center;
+}
+
+h1 {
+    background-color: navy;
+}
+
+.fivep {
+   padding: 20px;
+    color: salmon;
+    font-size: 20px;
+    background-color: seagreen;
+}
+
+.sixp {
+    font-size: 20px;
+    color: burlywood;
+    background-color: cornflowerblue;
+    margin: 14px;
+
+}
+
+h4 {
+    color: crimson;
+    background-color: darkolivegreen;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+ footer {
+    background-color: darkolivegreen;
+}
+
+.p {
+    color: white;
+    background-color: tomato;
+}
